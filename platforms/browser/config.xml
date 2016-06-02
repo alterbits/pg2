@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.example" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>PhoneGap Build Application</name>
+    <description>
+A simple PhoneGap Build application.
+</description>
+    <author email="you@example.com" href="https://example.com">
+Your Name
+</author>
+</widget>
